@@ -1,48 +1,30 @@
-<!-- Writing a Function in JavaScript
+![Delicious Pasta](https://plus.unsplash.com/premium_photo-1677000666761-ff476a65c8ba?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGFzdGF8ZW58MHx8MHx8fDA%3D)
 
-In JavaScript, functions are blocks of reusable code. They allow you to bundle functionality, make it more readable, and avoid repetition. Here's a brief tutorial on writing an arrow function in JavaScript.
+# How to Cook the Perfect Pasta
 
-1. Basic syntax
+Making perfect pasta is simple! Follow these easy steps:
 
-const functionName = (params) => {
-// code to be executed
-}
+## Ingredients
 
-const: const should be used whenever a function expression is assigned to a variable.
-The function name: The name you choose for the function.
-Parameters: Optional comma separated parameters. This is the data passed into the function. If there are no parameters, the () is still required.
-The arrow syntax: Indicates that this will be a function.
-The body: The statements that make up the function itself. Surrounded by curly braces.
+- Pasta (your favorite type)
+- Water
+- Salt
+- Olive oil (optional)
 
-Example:
+## Steps to Cook Pasta
 
-const greet = (name) => {
-console.log("Hello, " + name + "!");
-}
+1. **Boil Water**: Fill a large pot with water and bring it to a boil.
+2. **Add Salt**: Add a generous pinch of salt to the boiling water.
+3. **Cook Pasta**: Add the pasta to the water. Stir occasionally to prevent sticking.
+4. **Check for Doneness**: Cook the pasta until it’s al dente (check the package for timing).
+5. **Drain the Pasta**: Use a colander to drain the pasta. Don’t rinse it unless you’re making a cold salad.
+6. **Serve and Enjoy**: Toss with your favorite sauce and enjoy!
 
-Tip: Functions often perform actions, so naming with a verb can make it clear what the function does. Examples include fetchData( ), calculateArea( ), or printReport( ).
+## Bonus Tip
 
-2. Calling a function
+> Save a cup of pasta water before draining—it’s great for adjusting the sauce!
 
-To execute the function, you call or invoke it by using its name followed by parentheses.
+---
 
-Example:
-
-greet('Alice'); // Outputs: Hello, Alice!
-
-3. Return values
-
-Functions can process data input and output a value using the return keyword.
-
-Example:
-
-const addNums = (numA, numB) => {
-return numA + numB
-}
-
-const total = addNums(2, 4);
-
-console.log(total) // Expected value: 6
-
-For more information on functions and how they are used in JS, check out the MDN docs.
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions -->
+Let me know when you’ve pasted this content and saved the file (`Ctrl + S` or `Command + S`). Then we’ll move on to previewing it!
+![Bon Appétit](https://images.unsplash.com/photo-1481931098730-318b6f776db0?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cGFzdGF8ZW58MHx8MHx8fDA%3D)
